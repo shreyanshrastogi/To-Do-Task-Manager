@@ -24,6 +24,9 @@ python to_do_manager.py
 ⭐ If you liked this project, consider starring the repo!S
 
 
+
+## ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
 ![Learning](https://img.shields.io/badge/Focus-Backend_Internship-green)
+
